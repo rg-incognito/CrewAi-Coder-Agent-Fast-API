@@ -8,7 +8,7 @@ from fastapi import FastAPI, HTTPException
 
 # --- LLM Setup ---
 #os.environ["GEMINI_API_KEY"] = "YOUR_GEMINI_API_KEY"  # Replace with your API key
-os.environ["GEMINI_API_KEY"] = "AIzaSyBxOYPifKL584yTxybLp8Wb9O09srKZcMQ"
+os.environ["GEMINI_API_KEY"] = "xxxx"
 llm = LLM('gemini/gemini-2.0-flash-lite',
                             verbose=True,
                             temperature=0.7)
