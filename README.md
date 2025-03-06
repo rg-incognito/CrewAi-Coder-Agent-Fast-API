@@ -176,7 +176,3 @@ The script exposes a single API endpoint:
 ## Disclaimer
 
 This script is a simulation and may not produce real-world software development results. The AI agents are not perfect and may make mistakes. Use this script for educational and experimental purposes only. Real APIs Keys may involve cost, be sure to check the terms of use before.
-
-## License
-
-[Specify the license under which your code is released (e.g., MIT License, Apache 2.0, etc.)]
